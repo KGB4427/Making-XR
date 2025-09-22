@@ -3,7 +3,57 @@ guid: 74db1de97be1b8f4181a320e711472e8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forehead_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Brow_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Corner_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Ear_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Temple_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_mask.meshMat
+    second: {fileID: 2100000, guid: 991118f6e6301bd4b80bf263531d94a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Brow_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Corner_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Ear_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Temple_Eye.meshMat
+    second: {fileID: 2100000, guid: 88f9b5a675d54e34eb158ab34dbb108d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
