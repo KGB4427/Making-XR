@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/XR World.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Scenes/VR World.unity
-    guid: 97886b92a70adf545b5a5e36127e185a
+    path: Assets/Scenes/UnmaskingXR.unity
+    guid: 01fa611078859a54fb1cf392bfa69af6
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 797ae63ea442ba241b8a868bf3f9c3ba,
       type: 2}
