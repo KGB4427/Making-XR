@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/ARMask.unity
+    guid: 37a22b766eb39da48a65856479fc0fe0
+  - enabled: 1
     path: Assets/Scenes/UnmaskingXR.unity
     guid: 01fa611078859a54fb1cf392bfa69af6
   m_configObjects:
